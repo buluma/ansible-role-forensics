@@ -16,8 +16,6 @@ molecule:
   retry: 1
   parallel:
     matrix:
-      - image: "alpine"
-        tag: "latest"
       - image: "amazonlinux"
         tag: "latest"
       - image: "debian"
@@ -29,6 +27,7 @@ molecule:
       - image: "fedora"
         tag: "rawhide"
 # TODO Build Ubuntu base
+# TODO Build Alpine base
 galaxy:
   script:
     - ansible-galaxy role info ${CI_PROJECT_NAMESPACE}.forensics
