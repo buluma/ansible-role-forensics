@@ -38,7 +38,7 @@ jobs:
           - image: "amazonlinux"
             tag: "latest"
           - image: "debian"
-            tag: "latest"
+            tag: "jessie"
           - image: "debian"
             tag: "bookworm"
           - image: "fedora"

@@ -21,7 +21,7 @@ molecule:
       - image: "amazonlinux"
         tag: "latest"
       - image: "debian"
-        tag: "latest"
+        tag: "jessie"
       - image: "debian"
         tag: "bookworm"
       - image: "fedora"
@@ -37,4 +37,4 @@ molecule:
 
 galaxy:
   script:
-    - ansible-galaxy role info ${CI_PROJECT_NAMESPACE}.${CI_PROJECT_NAME}
+    - ansible-galaxy role info ${CI_PROJECT_NAMESPACE}.forensics
