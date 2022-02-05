@@ -4,7 +4,7 @@ Install and configure forensics on your system.
 
 |GitHub|GitLab|Quality|Downloads|Version|
 |------|------|-------|---------|-------|
-|[![github](https://github.com/buluma/ansible-role-forensics/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-forensics/actions)|[![pipeline status](https://gitlab.com/buluma/ansible-role-forensics/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-forensics/-/commits/main)|[![quality](https://img.shields.io/ansible/quality/57897)](https://galaxy.ansible.com/buluma/forensics)|[![downloads](https://img.shields.io/ansible/role/d/57897)](https://galaxy.ansible.com/buluma/forensics)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-forensics.svg)](https://github.com/buluma/ansible-role-forensics/releases/)|
+|[![github](https://github.com/buluma/ansible-role-forensics/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-forensics/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-forensics/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-forensics)|[![quality](https://img.shields.io/ansible/quality/57897)](https://galaxy.ansible.com/buluma/forensics)|[![downloads](https://img.shields.io/ansible/role/d/57897)](https://galaxy.ansible.com/buluma/forensics)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-forensics.svg)](https://github.com/buluma/ansible-role-forensics/releases/)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -138,4 +138,4 @@ Apache-2.0
 
 ## [Author Information](#author-information)
 
-[Michael Buluma](https://buluma.co.ke/)
+[Michael Buluma](https://buluma.github.io/)
