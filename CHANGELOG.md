@@ -1,12 +1,12 @@
 # Changelog
 
+## [v1.0.9](https://github.com/buluma/ansible-role-forensics/tree/v1.0.9) (2022-07-08)
+
+[Full Changelog](https://github.com/buluma/ansible-role-forensics/compare/v1.0.8...v1.0.9)
+
 ## [v1.0.8](https://github.com/buluma/ansible-role-forensics/tree/v1.0.8) (2022-05-11)
 
 [Full Changelog](https://github.com/buluma/ansible-role-forensics/compare/v1.0.7...v1.0.8)
-
-**Merged pull requests:**
-
-- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.4 to 1.0.5 [\#16](https://github.com/buluma/ansible-role-forensics/pull/16) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v1.0.7](https://github.com/buluma/ansible-role-forensics/tree/v1.0.7) (2022-03-20)
 
@@ -18,6 +18,7 @@
 
 **Merged pull requests:**
 
+- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.4 to 1.0.5 [\#16](https://github.com/buluma/ansible-role-forensics/pull/16) ([dependabot[bot]](https://github.com/apps/dependabot))
 - set concurrency [\#14](https://github.com/buluma/ansible-role-forensics/pull/14) ([buluma](https://github.com/buluma))
 
 ## [v1.0.5](https://github.com/buluma/ansible-role-forensics/tree/v1.0.5) (2022-02-12)
