@@ -2,9 +2,9 @@
 
 Install and configure forensics on your system.
 
-|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
-|------|------|-------|---------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-forensics/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-forensics/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-forensics/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-forensics)|[![quality](https://img.shields.io/ansible/quality/57897)](https://galaxy.ansible.com/buluma/forensics)|[![downloads](https://img.shields.io/ansible/role/d/57897)](https://galaxy.ansible.com/buluma/forensics)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-forensics.svg)](https://github.com/buluma/ansible-role-forensics/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-forensics.svg)](https://github.com/buluma/ansible-role-forensics/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-forensics.svg)](https://github.com/buluma/ansible-role-forensics/pulls/)|
+|GitHub|GitLab|Downloads|Version|Issues|Pull Requests|
+|------|------|-------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-forensics/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-forensics/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-forensics/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-forensics)|[![downloads](https://img.shields.io/ansible/role/d/4712)](https://galaxy.ansible.com/buluma/forensics)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-forensics.svg)](https://github.com/buluma/ansible-role-forensics/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-forensics.svg)](https://github.com/buluma/ansible-role-forensics/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-forensics.svg)](https://github.com/buluma/ansible-role-forensics/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
