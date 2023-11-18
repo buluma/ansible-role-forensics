@@ -1,5 +1,14 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-forensics/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-forensics/compare/v1.0.9...HEAD)
+
+**Closed issues:**
+
+- Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#23](https://github.com/buluma/ansible-role-forensics/issues/23)
+- Update action [\#22](https://github.com/buluma/ansible-role-forensics/issues/22)
+
 ## [v1.0.9](https://github.com/buluma/ansible-role-forensics/tree/v1.0.9) (2022-07-08)
 
 [Full Changelog](https://github.com/buluma/ansible-role-forensics/compare/v1.0.8...v1.0.9)
