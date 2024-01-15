@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-forensics/tree/HEAD)
+## [v2.2.0](https://github.com/buluma/ansible-role-forensics/tree/v2.2.0) (2024-01-09)
 
-[Full Changelog](https://github.com/buluma/ansible-role-forensics/compare/v2.1.0...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-forensics/compare/v2.1.0...v2.2.0)
 
 **Merged pull requests:**
 
