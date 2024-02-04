@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-forensics/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-forensics/compare/v2.3.0...HEAD)
+
+**Merged pull requests:**
+
+- Bump release-drafter/release-drafter from 5 to 6 [\#32](https://github.com/buluma/ansible-role-forensics/pull/32) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v2.3.0](https://github.com/buluma/ansible-role-forensics/tree/v2.3.0) (2024-01-20)
 
 [Full Changelog](https://github.com/buluma/ansible-role-forensics/compare/v2.2.0...v2.3.0)
