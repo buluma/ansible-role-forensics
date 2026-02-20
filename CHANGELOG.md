@@ -2,6 +2,15 @@
 
 ## [v24.3.31](https://github.com/buluma/ansible-role-forensics/tree/v24.3.31) (2024-03-29)
 
+[Full Changelog](https://github.com/buluma/ansible-role-forensics/compare/v24.3.31...HEAD)
+
+**Closed issues:**
+
+- Update action [\#25](https://github.com/buluma/ansible-role-forensics/issues/25)
+- rebuild action [\#24](https://github.com/buluma/ansible-role-forensics/issues/24)
+
+## [v24.3.31](https://github.com/buluma/ansible-role-forensics/tree/v24.3.31) (2024-03-29)
+
 [Full Changelog](https://github.com/buluma/ansible-role-forensics/compare/v2.3.0...v24.3.31)
 
 **Merged pull requests:**
