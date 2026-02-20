@@ -1,6 +1,6 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-forensics/tree/HEAD)
+## [v24.3.31](https://github.com/buluma/ansible-role-forensics/tree/v24.3.31) (2024-03-29)
 
 [Full Changelog](https://github.com/buluma/ansible-role-forensics/compare/v24.3.31...HEAD)
 
@@ -27,7 +27,6 @@
 **Merged pull requests:**
 
 - Bump buluma/molecule-action from 6.0.1 to 6.0.3 [\#31](https://github.com/buluma/ansible-role-forensics/pull/31) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#30](https://github.com/buluma/ansible-role-forensics/pull/30) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v2.2.0](https://github.com/buluma/ansible-role-forensics/tree/v2.2.0) (2024-01-09)
 
@@ -35,6 +34,7 @@
 
 **Merged pull requests:**
 
+- Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#30](https://github.com/buluma/ansible-role-forensics/pull/30) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump actions/checkout from 3 to 4 [\#28](https://github.com/buluma/ansible-role-forensics/pull/28) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.5 to 1.0.8 [\#27](https://github.com/buluma/ansible-role-forensics/pull/27) ([dependabot[bot]](https://github.com/apps/dependabot))
 
