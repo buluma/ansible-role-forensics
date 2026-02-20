@@ -1,5 +1,4 @@
 ---
-
 - name: command_collector | Collect commands
   block:
     - name: command_collector | Run command

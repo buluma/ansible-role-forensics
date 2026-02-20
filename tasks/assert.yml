@@ -1,5 +1,4 @@
 ---
-
 - name: assert | Test if forensics_local_storage_path is set correctly
   ansible.builtin.assert:
     that:

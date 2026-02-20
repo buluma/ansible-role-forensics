@@ -1,5 +1,4 @@
 ---
-
 - name: specific_file_collector | Find files in {{ object.path }}
   ansible.builtin.find:
     paths: "{{ object.path }}"

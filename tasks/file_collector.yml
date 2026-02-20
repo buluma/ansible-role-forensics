@@ -1,5 +1,4 @@
 ---
-
 - name: file_collector | Create storage directory
   ansible.builtin.file:
     path: "{{ forensics_local_storage_path }}/{{ object | dirname }}"
