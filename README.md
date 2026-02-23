@@ -12,26 +12,26 @@ This example is taken from [`molecule/default/converge.yml`](https://github.com/
 
 ```yaml
 ---
-  - name: Converge
-    hosts: all
-    become: yes
-    gather_facts: yes
+- name: Converge
+  hosts: all
+  become: yes
+  gather_facts: yes
 
-    roles:
-      - role: buluma.forensics
+  roles:
+  - role: buluma.forensics
 ```
 
 The machine needs to be prepared. In CI this is done using [`molecule/default/prepare.yml`](https://github.com/buluma/ansible-role-forensics/blob/master/molecule/default/prepare.yml):
 
 ```yaml
 ---
-  - name: Prepare
-    hosts: all
-    become: yes
-    gather_facts: no
+- name: Prepare
+  hosts: all
+  become: yes
+  gather_facts: no
 
-    roles:
-      - role: buluma.bootstrap
+  roles:
+  - role: buluma.bootstrap
 ```
 
 Also see a [full explanation and example](https://buluma.github.io/how-to-use-these-roles.html) on how to use these roles.
@@ -49,47 +49,47 @@ forensics_local_storage_path: /tmp/forensics
 
 # A list of commands to run.
 forensics_command_list:
-  - "journalctl -xe"
-  - "ps -ef"
-  - "lsof"
-  - "systemctl status"
-  - "netstat -an"
-  - "netstat -tulpen"
+- "journalctl -xe"
+- "ps -ef"
+- "lsof"
+- "systemctl status"
+- "netstat -an"
+- "netstat -tulpen"
 
 # A list of directories to collect all files from.
 forensics_directory_list:
-  - "/var/log"
-  - "/tmp"
-  - "/var/tmp"
-  - "/var/spool/cron"
-  - "/var/spool/anacron"
-  - "/etc/cron.d"
-  - "/etc/cron.daily"
-  - "/etc/cron.hourly"
-  - "/etc/cron.monthly"
-  - "/etc/cron.weekly"
-  - "/var/spool/at"
+- "/var/log"
+- "/tmp"
+- "/var/tmp"
+- "/var/spool/cron"
+- "/var/spool/anacron"
+- "/etc/cron.d"
+- "/etc/cron.daily"
+- "/etc/cron.hourly"
+- "/etc/cron.monthly"
+- "/etc/cron.weekly"
+- "/var/spool/at"
 
 # A list of files to collect.
 forensics_file_list:
-  - "/etc/passwd"
-  - "/etc/group"
-  - "/etc/shadow"
+- "/etc/passwd"
+- "/etc/group"
+- "/etc/shadow"
 
 # A list of directories and patterns to collect.
 forensics_specific_file_list:
-  - path: "/root"
-    pattern: ".authorized_keys"
-  - path: "/root"
-    pattern: ".bash_history"
-  - path: "/root"
-    pattern: ".history"
-  - path: "/home"
-    pattern: ".authorized_keys"
-  - path: "/home"
-    pattern: ".bash_history"
-  - path: "/home"
-    pattern: ".history"
+- path: "/root"
+  pattern: ".authorized_keys"
+- path: "/root"
+  pattern: ".bash_history"
+- path: "/root"
+  pattern: ".history"
+- path: "/home"
+  pattern: ".authorized_keys"
+- path: "/home"
+  pattern: ".bash_history"
+- path: "/home"
+  pattern: ".history"
 ```
 
 ## [Requirements](#requirements)
